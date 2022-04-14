@@ -1,0 +1,36 @@
+{
+    "name": "MiddleVRWizard",
+    "rootNamespace": "",
+    "references": [
+        "GUID:86d2e0d128305fc4ca00f7e4c0484200",
+        "GUID:f749c829f27dd9f4ab678ce01478ae79",
+        "GUID:4ed774904ac1942469d39ead7079ad57"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.middlevr",
+            "expression": "2.0.0",
+            "define": "MVR"
+        },
+        {
+            "name": "com.middlevr.hdrp",
+            "expression": "2.0.0",
+            "define": "MVR_HDRP"
+        },
+        {
+            "name": "com.middlevr.urp",
+            "expression": "2.0.0",
+            "define": "MVR_URP"
+        }
+    ],
+    "noEngineReferences": false
+}
